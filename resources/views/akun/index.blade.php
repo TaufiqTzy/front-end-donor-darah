@@ -24,7 +24,7 @@
             <div class="mt-5">
                 <form>
                     <div class="form-group">
-                        <label for="nama">Nama</label>
+                        <label for="nama">SIA NAMO ANG?</label>
                         <input type="text" class="form-control" id="nama" placeholder="PMI Kota Padang"
                             style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
                     </div>
@@ -34,7 +34,7 @@
                             style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
                     </div>
                     <div class="form-group mt-4">
-                        <label for="alamat">Alamat</label>
+                        <label for="alamat">Alamaik</label>
                         <input type="text" class="form-control" id="alamat" placeholder="jalan xxxxxxx"
                             style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
                     </div>
