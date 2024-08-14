@@ -24,17 +24,17 @@
             <div class="mt-5">
                 <form>
                     <div class="form-group">
-                        <label for="nama">Nama</label>
+                        <label for="nama">SIA NAMO ANG?</label>
                         <input type="text" class="form-control" id="nama" placeholder="PMI Kota Padang"
                             style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
                     </div>
                     <div class="form-group mt-4">
                         <label for="password">Password</label>
                         <input type="password" class="form-control" id="password" placeholder=""
-                            style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
+                            style="background-color: rgba(217,217,217,1); height: 5git0px; margin-top:10px">
                     </div>
                     <div class="form-group mt-4">
-                        <label for="alamat">Alamat</label>
+                        <label for="alamat">Alamaik</label>
                         <input type="text" class="form-control" id="alamat" placeholder="jalan xxxxxxx"
                             style="background-color: rgba(217,217,217,1); height: 50px; margin-top:10px">
                     </div>
@@ -58,7 +58,7 @@
                                     <div class="modal-header">
                                         <h1 class="modal-title fs-5" id="ambilDarahLabel"
                                             style="font-weight: bold; color: rgba(59, 75, 101, 1);">
-                                            Edit Akun</h1>
+                                            Edit Den Pliss</h1>
                                         <button type="button" class="btn-close" data-bs-dismiss="modal"
                                             aria-label="Close"></button>
                                     </div>
