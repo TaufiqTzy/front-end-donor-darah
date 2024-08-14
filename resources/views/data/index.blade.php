@@ -85,7 +85,7 @@
                                         </div>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-success">Simpan</button>
+                                        <button type="button" class="btn btn-success">kanciang</button>
                                     </div>
                                 </div>
                             </div>
