@@ -85,7 +85,7 @@
                                     </div>
                                     <div>
                                         PALANG MERAH INDONESIA <br>
-                                        <span style="font-weight: bold">KOTA PADANG</span>
+                                        <span style="font-weight: bold">KOTA SOLOK</span>
                                     </div>
                                 </div>
                             </form>

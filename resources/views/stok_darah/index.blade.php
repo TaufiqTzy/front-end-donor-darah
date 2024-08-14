@@ -65,7 +65,7 @@
                                             </div>
                                             <div class="row mt-3">
                                                 <div class="col">
-                                                    <label for="" style="color: gray">Tanggal Donor</label>
+                                                    <label for="" style="color: gray">Tanggal Donor Alex</label>
                                                     <input type="date" class="form-control" placeholder="Tanggal">
                                                 </div>
                                             </div>
